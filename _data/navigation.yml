@@ -5,7 +5,7 @@ main:
     url: /talks/ 
     
   - title: "Research"
-    url: /publications/   
+    url: /talkmap/   
 
   - title: "Teaching"
     url: /teaching/    

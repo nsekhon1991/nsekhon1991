@@ -2,10 +2,7 @@
 main:
 
   - title: "People"
-    url: /talks/ 
-    
-  - title: "Research"
-    url: /talkmap/   
+    url: /talks/   
 
   - title: "Teaching"
     url: /teaching/    

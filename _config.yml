@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WICK Lab"
+title                    : 
 title_separator          : "-"
 name                     : &name "Natasha Sekhon, PhD"
 description              : &description "Assistant Professor"
